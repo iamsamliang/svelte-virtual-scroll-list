@@ -1,10 +1,6 @@
 {
   "name": "svelte-virtual-scroll-list",
   "description": "Svelte lib for virtualizing lists",
-  "author": {
-    "name": "v1ack",
-    "url": "https://github.com/v1ack"
-  },
   "keywords": [
     "svelte",
     "virtual",
@@ -14,7 +10,7 @@
   "version": "1.3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/v1ack/svelte-virtual-scroll-list.git"
+    "url": "git+https://github.com/iamsamliang/svelte-virtual-scroll-list.git"
   },
   "scripts": {
     "dev": "vite dev",
